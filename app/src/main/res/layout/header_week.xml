@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal">
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="日"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="一"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="二"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="三"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="四"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="五"/>
+
+    <TextView
+        style="@style/style_header_week"
+        android:text="六"/>
+</LinearLayout>
